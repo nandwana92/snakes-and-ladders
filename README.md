@@ -9,11 +9,13 @@
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/36832784/89706139-93fb9080-d980-11ea-9d35-222a4908a227.png" width="512">
-_Start Game_
+_Game Select_
 
-![Alt Text](https://media.giphy.com/media/WovSJAihr1ypWaRzLZ/giphy.gif)
+<img src="https://user-images.githubusercontent.com/36832784/89706139-93fb9080-d980-11ea-9d35-222a4908a227.png" width="512">
+
 _Board_
+
+![Alt Text](https://media.giphy.com/media/WovSJAihr1ypWaRzLZ/giphy.gif)  
 
 ## Created by
 
