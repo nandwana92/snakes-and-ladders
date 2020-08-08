@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/36832784/89706016-cce73580-d97f-11ea-9e39-31c731b67dd2.png" height="48" align="left"> Snakes and Ladders
 
-> A no-frills web version of the classic snakes and ladders board game. Check it out over [here](https://heuristic-jang-27db68.netlify.app/).
+> A no-frills web version of the classic snakes and ladders board game. Check it out over [here](https://heuristic-jang-27db68.netlify.app/#/snakes-and-ladders/game-select).
 
 ## Highlights
 
